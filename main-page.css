@@ -93,9 +93,11 @@ nav a {
   display: flex;
   flex-direction: row;
   margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  gap: 4vw;
 }
 .card {
-  margin-left: 10vh;
 }
 .card-image {
   height: 58vh;
